@@ -1,0 +1,19 @@
+simple:
+  titles: '&#08FB85&lꜱ&#24FB8B&lᴜ&#40FC90&lʀ&#5CFC96&lᴠ&#77FC9C&lɪ&#93FCA2&lᴠ&#AFFDA7&lᴀʟ'
+  scores:
+    18: ''
+    17: '   &7⌚ %localtime_time_MMM d, Y%'
+    16: ''
+    15: '&7%player%:'
+    14: '&c⭐ &fʀᴀɴᴋ: %luckperms_prefix%'
+    13: '&a&l$ &fᴍᴏɴᴇʏ: &a$%vault_eco_balance%'
+    12: '&6&l✨ &fꜰᴇᴀᴛᴜʀᴇ: &aᴄᴏᴍɪɴɢ ꜱᴏᴏɴ!'
+    11: ''
+    10: '&#3DE0B8&l✔ &fᴏɴʟɪɴᴇ: &#3DE0B8%server_online%'
+    9: '&#3D65E0🌊 &fᴘʟᴀʏᴛɪᴍᴇ: &#3D65E0%statistic_time_played:hours% Hours'
+    8: '&c⚔ &fᴋɪʟʟꜱ: &c%statistic_player_kills%'
+    7: '&4☠ &fᴅᴇᴀᴛʜꜱ: &4%statistic_deaths%'
+    5: ''
+    4: '&7⛏ ᴘʟᴀʏ.ʏᴏᴜʀꜱᴇʀᴠᴇʀ.ɴᴇᴛ'
+
+

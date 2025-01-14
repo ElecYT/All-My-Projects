@@ -1,0 +1,335 @@
+# CUSTOM MENU DESIGN BY @ELECISCOOL ON YT
+# PLEASE KEEP THIS MESSAGE TO CREDIT ME
+# USEFUL LINKS
+# PAPI: https://www.spigotmc.org/resources/placeholderapi.6245/
+# PAPI WIKI: https://github.com/PlaceholderAPI/PlaceholderAPI/wiki/Placeholders
+# DELUXEMENUS WIKI: https://wiki.helpch.at/helpchat-plugins/deluxemenus
+# PIXILART.COM: https://www.pixilart.com/draw
+# UNICODE CHART: https://jrgraphix.net/r/Unicode/E000-F8FF 
+# HEX CODES: https://htmlcolorcodes.com/
+# SLOT GUIDE: https://c4k3.github.io/wiki.vg/Inventory.html
+
+# MAKE SURE TO CHANGE THIS TO WHAT YOU WANT!
+open_command: custom
+
+# DON'T CHANGE THIS UNLESS YOU KNOW WHAT YOU ARE DOING!
+size: 54
+
+#ONLY CHANGE THE LAST UNICODE TO YOUR GUI UNICODE THAT YOU CREATED EARLIER!!
+menu_title: "&f"
+
+#IF YOU WANT TO ADD PERMISSION REQUIRMENTS, UNCOMMENT THIS
+#open_requirement:
+ # requirements:
+  #  permission:
+   #   type: has permission
+    #  permission: deluxemenus.admin
+     # deny_commands:
+      #  - '[message] &cYou don''t have permission to do that!'
+items:
+  'icon1':
+   #DON'T CHANGE THE MATERIAL
+   material: PAPER
+   #CHANGE THIS TO YOUR CUSTOM MODEL
+   model_data: 1
+   slot: 11
+   # CUSTOMIZE THE NAME
+   display_name: "&r&#10CF30Spawn Warp"
+   lore: 
+    - "&8ᴡᴀʀᴘ ᴍᴇɴᴜ"
+    - "&fTeleport back to the spawn"
+    - "&fWhere you can stock up on resources!"
+    - "&7"
+    - "&#E5EC06&lɪɴꜰᴏʀᴍᴀᴛɪᴏɴ"
+    - " &8&l| &r&fLocation: &aOverworld"
+    - " &8&l| &r&fCoords: &a x:0 y:0 z:0"
+    - "&7"
+    - "&#06A6EC» Click to teleport..."
+   left_click_commands:
+   # SET YOUR COMMANDS HERE
+    - '[close]'
+  'icon2':
+   material: PAPER
+   model_data: 2
+   slot: 12
+      # CUSTOMIZE THE NAME
+   display_name: "&r&#10CF30Spawn Warp"
+   lore: 
+    - "&8ᴡᴀʀᴘ ᴍᴇɴᴜ"
+    - "&fTeleport back to the spawn"
+    - "&fWhere you can stock up on resources!"
+    - "&7"
+    - "&#E5EC06&lɪɴꜰᴏʀᴍᴀᴛɪᴏɴ"
+    - " &8&l| &r&fLocation: &aOverworld"
+    - " &8&l| &r&fCoords: &a x:0 y:0 z:0"
+    - "&7"
+    - "&#06A6EC» Click to teleport..."
+   left_click_commands:
+   # SET YOUR COMMANDS HERE
+    - '[close]'
+  'icon3':
+   material: PAPER
+   model_data: 3
+   slot: 13
+      # CUSTOMIZE THE NAME
+   display_name: "&r&#10CF30Spawn Warp"
+   lore: 
+    - "&8ᴡᴀʀᴘ ᴍᴇɴᴜ"
+    - "&fTeleport back to the spawn"
+    - "&fWhere you can stock up on resources!"
+    - "&7"
+    - "&#E5EC06&lɪɴꜰᴏʀᴍᴀᴛɪᴏɴ"
+    - " &8&l| &r&fLocation: &aOverworld"
+    - " &8&l| &r&fCoords: &a x:0 y:0 z:0"
+    - "&7"
+    - "&#06A6EC» Click to teleport..."
+   left_click_commands:
+   # SET YOUR COMMANDS HERE
+    - '[close]'
+  'icon4':
+   material: PAPER
+   model_data: 4
+   slot: 14
+      # CUSTOMIZE THE NAME
+   display_name: "&r&#10CF30Spawn Warp"
+   lore: 
+    - "&8ᴡᴀʀᴘ ᴍᴇɴᴜ"
+    - "&fTeleport back to the spawn"
+    - "&fWhere you can stock up on resources!"
+    - "&7"
+    - "&#E5EC06&lɪɴꜰᴏʀᴍᴀᴛɪᴏɴ"
+    - " &8&l| &r&fLocation: &aOverworld"
+    - " &8&l| &r&fCoords: &a x:0 y:0 z:0"
+    - "&7"
+    - "&#06A6EC» Click to teleport..."
+   left_click_commands:
+   # SET YOUR COMMANDS HERE
+    - '[close]'
+  'icon5':
+   material: PAPER
+   model_data: 5
+   slot: 15
+      # CUSTOMIZE THE NAME
+   display_name: "&r&#10CF30Spawn Warp"
+   lore: 
+    - "&8ᴡᴀʀᴘ ᴍᴇɴᴜ"
+    - "&fTeleport back to the spawn"
+    - "&fWhere you can stock up on resources!"
+    - "&7"
+    - "&#E5EC06&lɪɴꜰᴏʀᴍᴀᴛɪᴏɴ"
+    - " &8&l| &r&fLocation: &aOverworld"
+    - " &8&l| &r&fCoords: &a x:0 y:0 z:0"
+    - "&7"
+    - "&#06A6EC» Click to teleport..."
+   left_click_commands:
+   # SET YOUR COMMANDS HERE
+    - '[close]'
+  'icon6':
+   material: PAPER
+   model_data: 6
+   slot: 19
+      # CUSTOMIZE THE NAME
+   display_name: "&r&#10CF30Spawn Warp"
+   lore: 
+    - "&8ᴡᴀʀᴘ ᴍᴇɴᴜ"
+    - "&fTeleport back to the spawn"
+    - "&fWhere you can stock up on resources!"
+    - "&7"
+    - "&#E5EC06&lɪɴꜰᴏʀᴍᴀᴛɪᴏɴ"
+    - " &8&l| &r&fLocation: &aOverworld"
+    - " &8&l| &r&fCoords: &a x:0 y:0 z:0"
+    - "&7"
+    - "&#06A6EC» Click to teleport..."
+   left_click_commands:
+   # SET YOUR COMMANDS HERE
+    - '[close]'
+  'icon7':
+   material: PAPER
+   model_data: 7
+   slot: 20
+      # CUSTOMIZE THE NAME
+   display_name: "&r&#10CF30Spawn Warp"
+   lore: 
+    - "&8ᴡᴀʀᴘ ᴍᴇɴᴜ"
+    - "&fTeleport back to the spawn"
+    - "&fWhere you can stock up on resources!"
+    - "&7"
+    - "&#E5EC06&lɪɴꜰᴏʀᴍᴀᴛɪᴏɴ"
+    - " &8&l| &r&fLocation: &aOverworld"
+    - " &8&l| &r&fCoords: &a x:0 y:0 z:0"
+    - "&7"
+    - "&#06A6EC» Click to teleport..."
+   left_click_commands:
+   # SET YOUR COMMANDS HERE
+    - '[close]'
+  'icon8':
+   material: PAPER
+   model_data: 8
+   slot: 21
+      # CUSTOMIZE THE NAME
+   display_name: "&r&#10CF30Spawn Warp"
+   lore: 
+    - "&8ᴡᴀʀᴘ ᴍᴇɴᴜ"
+    - "&fTeleport back to the spawn"
+    - "&fWhere you can stock up on resources!"
+    - "&7"
+    - "&#E5EC06&lɪɴꜰᴏʀᴍᴀᴛɪᴏɴ"
+    - " &8&l| &r&fLocation: &aOverworld"
+    - " &8&l| &r&fCoords: &a x:0 y:0 z:0"
+    - "&7"
+    - "&#06A6EC» Click to teleport..."
+   left_click_commands:
+   # SET YOUR COMMANDS HERE
+    - '[close]'
+  'icon9':
+   material: PAPER
+   model_data: 9
+   slot: 22
+      # CUSTOMIZE THE NAME
+   display_name: "&r&#10CF30Spawn Warp"
+   lore: 
+    - "&8ᴡᴀʀᴘ ᴍᴇɴᴜ"
+    - "&fTeleport back to the spawn"
+    - "&fWhere you can stock up on resources!"
+    - "&7"
+    - "&#E5EC06&lɪɴꜰᴏʀᴍᴀᴛɪᴏɴ"
+    - " &8&l| &r&fLocation: &aOverworld"
+    - " &8&l| &r&fCoords: &a x:0 y:0 z:0"
+    - "&7"
+    - "&#06A6EC» Click to teleport..."
+   left_click_commands:
+   # SET YOUR COMMANDS HERE
+    - '[close]'
+  'icon10':
+   material: PAPER
+   model_data: 10
+   slot: 23
+      # CUSTOMIZE THE NAME
+   display_name: "&r&#10CF30Spawn Warp"
+   lore: 
+    - "&8ᴡᴀʀᴘ ᴍᴇɴᴜ"
+    - "&fTeleport back to the spawn"
+    - "&fWhere you can stock up on resources!"
+    - "&7"
+    - "&#E5EC06&lɪɴꜰᴏʀᴍᴀᴛɪᴏɴ"
+    - " &8&l| &r&fLocation: &aOverworld"
+    - " &8&l| &r&fCoords: &a x:0 y:0 z:0"
+    - "&7"
+    - "&#06A6EC» Click to teleport..."
+   left_click_commands:
+   # SET YOUR COMMANDS HERE
+    - '[close]'
+  'icon11':
+   material: PAPER
+   model_data: 11
+   slot: 24
+      # CUSTOMIZE THE NAME
+   display_name: "&r&#10CF30Spawn Warp"
+   lore: 
+    - "&8ᴡᴀʀᴘ ᴍᴇɴᴜ"
+    - "&fTeleport back to the spawn"
+    - "&fWhere you can stock up on resources!"
+    - "&7"
+    - "&#E5EC06&lɪɴꜰᴏʀᴍᴀᴛɪᴏɴ"
+    - " &8&l| &r&fLocation: &aOverworld"
+    - " &8&l| &r&fCoords: &a x:0 y:0 z:0"
+    - "&7"
+    - "&#06A6EC» Click to teleport..."
+   left_click_commands:
+   # SET YOUR COMMANDS HERE
+    - '[close]'
+  'icon12':
+   material: PAPER
+   model_data: 12
+   slot: 29
+      # CUSTOMIZE THE NAME
+   display_name: "&r&#10CF30Spawn Warp"
+   lore: 
+    - "&8ᴡᴀʀᴘ ᴍᴇɴᴜ"
+    - "&fTeleport back to the spawn"
+    - "&fWhere you can stock up on resources!"
+    - "&7"
+    - "&#E5EC06&lɪɴꜰᴏʀᴍᴀᴛɪᴏɴ"
+    - " &8&l| &r&fLocation: &aOverworld"
+    - " &8&l| &r&fCoords: &a x:0 y:0 z:0"
+    - "&7"
+    - "&#06A6EC» Click to teleport..."
+   left_click_commands:
+   # SET YOUR COMMANDS HERE
+    - '[close]'
+  'icon13':
+   material: PAPER
+   model_data: 13
+   slot: 30
+      # CUSTOMIZE THE NAME
+   display_name: "&r&#10CF30Spawn Warp"
+   lore: 
+    - "&8ᴡᴀʀᴘ ᴍᴇɴᴜ"
+    - "&fTeleport back to the spawn"
+    - "&fWhere you can stock up on resources!"
+    - "&7"
+    - "&#E5EC06&lɪɴꜰᴏʀᴍᴀᴛɪᴏɴ"
+    - " &8&l| &r&fLocation: &aOverworld"
+    - " &8&l| &r&fCoords: &a x:0 y:0 z:0"
+    - "&7"
+    - "&#06A6EC» Click to teleport..."
+   left_click_commands:
+   # SET YOUR COMMANDS HERE
+    - '[close]'
+  'icon14':
+   material: PAPER
+   model_data: 14
+   slot: 31
+      # CUSTOMIZE THE NAME
+   display_name: "&r&#10CF30Spawn Warp"
+   lore: 
+    - "&8ᴡᴀʀᴘ ᴍᴇɴᴜ"
+    - "&fTeleport back to the spawn"
+    - "&fWhere you can stock up on resources!"
+    - "&7"
+    - "&#E5EC06&lɪɴꜰᴏʀᴍᴀᴛɪᴏɴ"
+    - " &8&l| &r&fLocation: &aOverworld"
+    - " &8&l| &r&fCoords: &a x:0 y:0 z:0"
+    - "&7"
+    - "&#06A6EC» Click to teleport..."
+   left_click_commands:
+   # SET YOUR COMMANDS HERE
+    - '[close]'
+  'icon15':
+   material: PAPER
+   model_data: 15
+   slot: 32
+      # CUSTOMIZE THE NAME
+   display_name: "&r&#10CF30Spawn Warp"
+   lore: 
+    - "&8ᴡᴀʀᴘ ᴍᴇɴᴜ"
+    - "&fTeleport back to the spawn"
+    - "&fWhere you can stock up on resources!"
+    - "&7"
+    - "&#E5EC06&lɪɴꜰᴏʀᴍᴀᴛɪᴏɴ"
+    - " &8&l| &r&fLocation: &aOverworld"
+    - " &8&l| &r&fCoords: &a x:0 y:0 z:0"
+    - "&7"
+    - "&#06A6EC» Click to teleport..."
+   left_click_commands:
+   # SET YOUR COMMANDS HERE
+    - '[close]'
+  'icon16':
+   material: PAPER
+   model_data: 16
+   slot: 33
+      # CUSTOMIZE THE NAME
+   display_name: "&r&#10CF30Spawn Warp"
+   lore: 
+    - "&8ᴡᴀʀᴘ ᴍᴇɴᴜ"
+    - "&fTeleport back to the spawn"
+    - "&fWhere you can stock up on resources!"
+    - "&7"
+    - "&#E5EC06&lɪɴꜰᴏʀᴍᴀᴛɪᴏɴ"
+    - " &8&l| &r&fLocation: &aOverworld"
+    - " &8&l| &r&fCoords: &a x:0 y:0 z:0"
+    - "&7"
+    - "&#06A6EC» Click to teleport..."
+   left_click_commands:
+   # SET YOUR COMMANDS HERE
+    - '[close]'
